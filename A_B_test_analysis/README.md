@@ -1,6 +1,3 @@
-# Educational-projects
-Projects based on data from Yandex.Practicum
-
 # **Проверка гипотез для увеличения выручки**
 ## Данные
 В наличии данные крупного интернет-магазина: 
