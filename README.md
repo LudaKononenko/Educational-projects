@@ -2,7 +2,7 @@
 Projects based on data from Yandex.Practicum
 | Название папки | Описание проекта | Библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [A_B_test_analysis (online store)](https://github.com/LudaKononenko/Educational-projects/tree/main/A_B_test_analysis) | Проведение результатов A/B тестирования по данным интернет-магазина | *Pandas, Matplotlib, Seaborn, Numpy, Datetime, Scipy* | 
+| [A_B_test_analysis (online store)](https://github.com/LudaKononenko/Educational-projects/tree/main/A_B_test_analysis%20(online%20store)) | Проведение результатов A/B тестирования по данным интернет-магазина | *Pandas, Matplotlib, Seaborn, Numpy, Datetime, Scipy* | 
 | [A_B_test_analysis (recommendation system)](https://github.com/LudaKononenko/Educational-projects/tree/main/A_B_test_analysis%20(recommendation%20system)) | Оценка результатов A/B тестирования, связанных с внедрением улучшенной рекомендательной системы | *Pandas, Matplotlib, Seaborn, Numpy, Datetime, Scipy, Math, Plotly* |
 | [Analysis_of_business_indicators](https://github.com/LudaKononenko/Educational-projects/tree/main/Analysis_of_business_indicators) | Проведение анализа рекламных кампаний развлекательного приложения, оценка маркетинговых затрат и определение причин убытков компании | *Pandas, Matplotlib, Datetime, Numpy* |
 | [Dashboards](https://github.com/LudaKononenko/Educational-projects/tree/main/Dashboards%20(Tableau)) | Визуализация данных в дашбордах в Tableau Public | *Tableau* |
